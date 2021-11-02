@@ -1,0 +1,34 @@
+{
+  "cars": [
+    {
+      "id": 1,
+      "model": "Celta",
+      "color": "Branco",
+      "price": 800
+    },
+    {
+      "id": 2,
+      "model": "Land Rover",
+      "color": "Branco",
+      "price": 800
+    },
+    {
+      "model": "Celta",
+      "color": "Cinza",
+      "price": 2,
+      "id": 3
+    },
+    {
+      "id": 4,
+      "model": "New Beatle",
+      "color": "Azul",
+      "price": 8000
+    },
+    {
+      "model": "Onix",
+      "color": "Vermelho",
+      "price": 39000,
+      "id": 5
+    }
+  ]
+}
