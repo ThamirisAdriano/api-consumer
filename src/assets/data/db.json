@@ -1,0 +1,16 @@
+{
+  "cars": [
+    {
+      "model": "Land Rover Range Rover Velar",
+      "color": "Branco",
+      "price": 900,
+      "id": 5
+    },
+    {
+      "model": "Celta",
+      "color": "Prata",
+      "price": 200,
+      "id": 6
+    }
+  ]
+}
